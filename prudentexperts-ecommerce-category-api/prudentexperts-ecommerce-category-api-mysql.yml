@@ -1,5 +1,6 @@
 server:
   port: 8092
+
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/rs_ecommerce
@@ -20,7 +21,7 @@ spring:
 
 management:
   server:
-    port: 8093
+    port: 8012
   endpoints:
     web:
       exposure:
