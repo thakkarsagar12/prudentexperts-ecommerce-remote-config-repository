@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="064c5f6e-beaf-49c4-9cc0-e1e23c8e55d5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="064c5f6e-beaf-49c4-9cc0-e1e23c8e55d5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,11 +10,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prudentexperts-ecommerce-product-api/prudentexperts-ecommerce-product-api-dev.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prudentexperts-ecommerce-product-api/prudentexperts-ecommerce-product-api-mysql.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prudentexperts-ecommerce-category-api/prudentexperts-ecommerce-category-api-mysql.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -30,6 +46,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/prudentexperts-ecommerce-product-api/prudentexperts-ecommerce-product-api-dev.yml" />
+        <option value="$PROJECT_DIR$/prudentexperts-ecommerce-product-api/prudentexperts-ecommerce-product-api-mysql.yml" />
+        <option value="$PROJECT_DIR$/prudentexperts-ecommerce-category-api/prudentexperts-ecommerce-category-api-mysql.yml" />
       </list>
     </option>
   </component>
@@ -43,8 +61,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -61,6 +79,11 @@
               <item name="prudentexperts-ecommerce-remote-config-repository" type="b2602c69:ProjectViewProjectNode" />
               <item name="prudentexperts-ecommerce-remote-config-repository" type="462c0819:PsiDirectoryNode" />
               <item name="prudentexperts-ecommerce-category-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prudentexperts-ecommerce-remote-config-repository" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prudentexperts-ecommerce-remote-config-repository" type="462c0819:PsiDirectoryNode" />
+              <item name="prudentexperts-ecommerce-product-api" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -104,6 +127,7 @@
       <workItem from="1543207895742" duration="1510000" />
       <workItem from="1543306146774" duration="1191000" />
       <workItem from="1543381586558" duration="582000" />
+      <workItem from="1543660647563" duration="334000" />
     </task>
     <task id="LOCAL-00001" summary="sam">
       <created>1543145701356</created>
@@ -133,16 +157,30 @@
       <option name="project" value="LOCAL" />
       <updated>1543306657589</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="sam">
+      <created>1543660660121</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1543660660121</updated>
+    </task>
+    <task id="LOCAL-00006" summary="sam">
+      <created>1543660767889</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1543660767889</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5105000" />
+    <option name="totallyTimeSpent" value="5439000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2603834" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2630458" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -159,7 +197,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33069307" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2940594" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -183,17 +221,24 @@
     <option name="LAST_COMMIT_MESSAGE" value="sam" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/prudentexperts-ecommerce-product-api/prudentexperts-ecommerce-product-api-mysql.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prudentexperts-ecommerce-product-api/prudentexperts-ecommerce-product-api-dev.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prudentexperts-ecommerce-product-api/prudentexperts-ecommerce-product-api-mysql.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prudentexperts-ecommerce-category-api/prudentexperts-ecommerce-category-api-mysql.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
         </state>
       </provider>
     </entry>
