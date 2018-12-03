@@ -22,7 +22,7 @@ spring:
 
 management:
   server:
-    port: 9095
+    port: 9014
   endpoints:
     web:
       exposure:
