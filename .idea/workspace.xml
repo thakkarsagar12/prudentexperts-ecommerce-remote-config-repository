@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="064c5f6e-beaf-49c4-9cc0-e1e23c8e55d5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rollingstone-ecommerce-account-api/rollingstone-ecommerce-account-api-mysql.yml" beforeDir="false" afterPath="$PROJECT_DIR$/prudentexperts-ecommerce-account-api/prudentexperts-ecommerce-account-api-mysql.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rollingstone-ecommerce-address-api/rollingstone-ecommerce-address-api-mysql.yml" beforeDir="false" afterPath="$PROJECT_DIR$/prudentexperts-ecommerce-address-api/prudentexperts-ecommerce-address-api-mysql.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,11 +49,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prudentexperts-ecommerce-account-api/prudentexperts-ecommerce-account-api-mysql.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            <state relative-caret-position="90">
+              <caret line="6" column="13" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prudentexperts-ecommerce-address-api/prudentexperts-ecommerce-address-api-mysql.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -81,6 +90,8 @@
         <option value="$PROJECT_DIR$/prudentexperts-ecommerce-category-api/prudentexperts-ecommerce-category-api-mysql.yml" />
         <option value="$PROJECT_DIR$/prudentexperts-ecommerce-user-api/prudentexperts-ecommerce-user-api-mysql.yml" />
         <option value="$PROJECT_DIR$/prudentexperts-ecommerce-account-api/prudentexperts-ecommerce-account-api-mysql.yml" />
+        <option value="$PROJECT_DIR$/prudentexperts-ecommerce-address-api/rollingstone-ecommerce-address-api-mysql.yml" />
+        <option value="$PROJECT_DIR$/prudentexperts-ecommerce-address-api/prudentexperts-ecommerce-address-api-mysql.yml" />
       </list>
     </option>
   </component>
@@ -114,6 +125,11 @@
             <path>
               <item name="prudentexperts-ecommerce-remote-config-repository" type="b2602c69:ProjectViewProjectNode" />
               <item name="prudentexperts-ecommerce-remote-config-repository" type="462c0819:PsiDirectoryNode" />
+              <item name="prudentexperts-ecommerce-address-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prudentexperts-ecommerce-remote-config-repository" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prudentexperts-ecommerce-remote-config-repository" type="462c0819:PsiDirectoryNode" />
               <item name="prudentexperts-ecommerce-category-api" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -137,7 +153,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543821884410" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543824304895" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -171,7 +187,7 @@
       <workItem from="1543306146774" duration="1191000" />
       <workItem from="1543381586558" duration="582000" />
       <workItem from="1543660647563" duration="5231000" />
-      <workItem from="1543821836613" duration="48000" />
+      <workItem from="1543821836613" duration="857000" />
     </task>
     <task id="LOCAL-00001" summary="sam">
       <created>1543145701356</created>
@@ -250,11 +266,25 @@
       <option name="project" value="LOCAL" />
       <updated>1543674494244</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="sam">
+      <created>1543821889680</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1543821889680</updated>
+    </task>
+    <task id="LOCAL-00013" summary="sam">
+      <created>1543824126776</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1543824126776</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10384000" />
+    <option name="totallyTimeSpent" value="11193000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -328,6 +358,13 @@
     <entry file="file://$PROJECT_DIR$/prudentexperts-ecommerce-category-api/prudentexperts-ecommerce-category-api-dev.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/prudentexperts-ecommerce-account-api/prudentexperts-ecommerce-account-api-mysql.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/prudentexperts-ecommerce-category-api/prudentexperts-ecommerce-category-api-mysql.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -335,10 +372,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prudentexperts-ecommerce-account-api/prudentexperts-ecommerce-account-api-mysql.yml">
+    <entry file="file://$PROJECT_DIR$/prudentexperts-ecommerce-address-api/prudentexperts-ecommerce-address-api-mysql.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        <state relative-caret-position="15">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
         </state>
       </provider>
     </entry>
