@@ -1,5 +1,5 @@
 server:
-  port: 8092
+  port: 9092
 
 spring:
   datasource:
@@ -21,7 +21,7 @@ spring:
 
 management:
   server:
-    port: 8012
+    port: 9012
   endpoints:
     web:
       exposure:
